@@ -1,3 +1,13 @@
+# Code Self Study Custom Gatsby Starter
+
+This is a modification of the default GatsbyJS starter.
+
+To create a Gatsby site with this template, run this command:
+
+```
+$ gatsby new project-name codeselfstudy/gatsby-default-starter
+```
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
